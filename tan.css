@@ -1,0 +1,38 @@
+@import url("https://fonts.google.com/specimen/Freeman");
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://github.com/jeffersontannn/IT0043TX01/blob/main/TSA2/announcement_bg.jpg?raw=true');
+    background-size: cover;
+}
+
+.announcement-container {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.logo {
+    width: 200px;
+    height: auto;
+}
+
+.announcement-title {
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    margin-top: 20px;
+} 
+
+.announcement-subtitle {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+
+.content-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    color: white;
+}
